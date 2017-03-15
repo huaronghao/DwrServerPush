@@ -19,7 +19,7 @@
           alert(data);
       }
   </script>
-  <title>第一个dwr推程序</title>
+  <title>dwr推送测试</title>
 </head>
 <body onload="dwr.engine.setActiveReverseAjax(true);">
 <input type="button" value="点击我" onclick="hello();" />
